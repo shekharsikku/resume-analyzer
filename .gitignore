@@ -1,0 +1,28 @@
+# node_modules
+node_modules
+
+# editor directories
+.idea
+.vscode
+.vercel
+
+# environment variables
+.env
+
+# logs and other files
+*.log
+*.local
+*.development
+*.production
+*.tsbuildinfo
+vite-env.d.ts
+vite.config.ts.timestamp*.mjs
+
+# react router
+/.react-router/
+/build/
+/test/
+
+# zip files
+*.zip
+ 
